@@ -1,0 +1,2 @@
+#!/bin/bash
+cp prog.c prog.bak
